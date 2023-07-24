@@ -6,6 +6,8 @@ import json
 
 
 hide_streamlit_style = """
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+ 
 <style>
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
